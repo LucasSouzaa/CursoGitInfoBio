@@ -1,1 +1,3 @@
 # CursoGitInfoBio
+
+Pull, Push sempre
